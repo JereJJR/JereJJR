@@ -46,6 +46,10 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-9911D8?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-4285F4?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+&nbsp;
+&nbsp;
+#### Operating system:
+
 ![Windows](https://img.shields.io/badge/Windows-2138A8?style=for-the-badge&logo=windows10&logoColor=white)&nbsp;
 
 &nbsp;
